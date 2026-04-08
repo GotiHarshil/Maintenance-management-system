@@ -5,3 +5,4 @@ dist/
 uploads/
 *.js.map
 .DS_Store
+.claude/
