@@ -1,0 +1,11 @@
+{
+  "monorepo": true,
+  "projects": {
+    "client": {
+      "rootDirectory": "client"
+    },
+    "server": {
+      "rootDirectory": "server"
+    }
+  }
+}
